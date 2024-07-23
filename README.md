@@ -1,5 +1,25 @@
-Hello! I'm Vinayak Jainapur, currently a student of Electronics and Communication Engineering at KLE Technological University. With a solid foundation in network domains and proficiency in programming languages such as C, C++, and Python, I am passionate about leveraging technology to create innovative solutions.
+<h1 align="center">Hi 👋, I'm Vinayak</h1>
+<h3 align="center">Aspiring Electronics and Communication Engineer | Network Enthusiast | Passionate UI Designer | Proficient in C, C++, and Python | IoT and Machine Learning Projects Experience</h3>
 
-In addition to my technical expertise, I have developed a keen interest in UI design, where I blend creativity with technical skills to craft intuitive and visually appealing user interfaces. My journey in engineering has equipped me with a diverse skill set, and I am constantly eager to learn and take on new challenges.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak-jainapur&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak-jainapur" /> </p>
 
-I am enthusiastic about exploring opportunities that allow me to apply my knowledge in network domains and programming, while also contributing to projects that focus on enhancing user experience through effective UI design.
+- I have worked on [ARP Spoofing Detetction and Mitigation using SDN controller.](https://drive.google.com/drive/folders/1JgJB5A21Npbka_x3at7HQoLXruZbFO6R?usp=drive_link)
+
+- I have worked on **Music vs Speech Classification using 3D convolutional network**
+
+- I have worked on [IOT Based Green House Monitoring System](https://drive.google.com/drive/folders/1c1eoOvfihbbBUiGe5jIEgv0un-G6mVDh?usp=sharing)
+
+- I have worked on [IOT Based Inventory Monitoring System](https://drive.google.com/drive/folders/1xpeffEbCJIBG0iXkJwZVaLofZf8MKFtd?usp=sharing)
+
+- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1-HP5CasaEiLcmm3-EBHqDcK4OQDRLeC_?usp=sharing](https://drive.google.com/drive/folders/1-HP5CasaEiLcmm3-EBHqDcK4OQDRLeC_?usp=sharing)
+
+- 💬 Ask me about **Networking, UI Design, and Programming**
+
+- 📫 How to reach me - **vinay.j777@icloud.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
