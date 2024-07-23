@@ -9,7 +9,7 @@
 
 - I have worked on [Music vs Speech Classification using 3D convolutional network System](https://drive.google.com/drive/folders/1jE45EahONFOFAvG7X92I1xpeDFskLlMq?usp=drive_link)
  
-- I have worked on [IOT Based Inventory Monitoring]([https://drive.google.com/drive/folders/1jE45EahONFOFAvG7X92I1xpeDFskLlMq?usp=drive_link](https://drive.google.com/drive/folders/1xpeffEbCJIBG0iXkJwZVaLofZf8MKFtd?usp=drive_link))
+- I have worked on [IOT Based Inventory Monitoring](https://drive.google.com/drive/folders/1xpeffEbCJIBG0iXkJwZVaLofZf8MKFtd?usp=drive_link)
  
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1-HP5CasaEiLcmm3-EBHqDcK4OQDRLeC_?usp=sharing](https://drive.google.com/drive/folders/1-HP5CasaEiLcmm3-EBHqDcK4OQDRLeC_?usp=sharing)
