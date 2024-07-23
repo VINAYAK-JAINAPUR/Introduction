@@ -5,11 +5,11 @@
 
 - I have worked on [ARP Spoofing Detetction and Mitigation using SDN controller.](https://drive.google.com/drive/folders/1JgJB5A21Npbka_x3at7HQoLXruZbFO6R?usp=drive_link)
 
-- I have worked on **Music vs Speech Classification using 3D convolutional network**
+- I have worked on **IOT Based Inventory Monitoring**
 
 - I have worked on [IOT Based Green House Monitoring System](https://drive.google.com/drive/folders/1c1eoOvfihbbBUiGe5jIEgv0un-G6mVDh?usp=sharing)
 
-- I have worked on [IOT Based Inventory Monitoring System](https://drive.google.com/drive/folders/1xpeffEbCJIBG0iXkJwZVaLofZf8MKFtd?usp=sharing)
+- I have worked on [Music vs Speech Classification using 3D convolutional network System](https://drive.google.com/drive/folders/1jE45EahONFOFAvG7X92I1xpeDFskLlMq?usp=drive_link)
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1-HP5CasaEiLcmm3-EBHqDcK4OQDRLeC_?usp=sharing](https://drive.google.com/drive/folders/1-HP5CasaEiLcmm3-EBHqDcK4OQDRLeC_?usp=sharing)
 
@@ -19,7 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinayak-jainapur-597391300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinayak-jainapur-597391300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vinayak-jainapur-597391300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
