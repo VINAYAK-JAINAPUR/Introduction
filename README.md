@@ -5,12 +5,12 @@
 
 ## Projects
 
-- [ARP Spoofing Detection and Mitigation using SDN Controller](https://drive.google.com/drive/folders/1JgJB5A21Npbka_x3at7HQoLXruZbFO6R?usp=drive_link)
-- [IOT Based Green House Monitoring System](https://drive.google.com/drive/folders/1c1eoOvfihbbBUiGe5jIEgv0un-G6mVDh?usp=sharing)
+- [ARP Spoofing Detection and Mitigation using SDN Controller](https://github.com/VINAYAK-JAINAPUR/ARP-Spoofing-Detection-and-Mitigation)
+- [IOT Based Green House Monitoring System](https://github.com/VINAYAK-JAINAPUR/Green-House-Monitoring-System)
 - [Music vs Speech Classification using 3D Convolutional Network System](https://drive.google.com/drive/folders/1jE45EahONFOFAvG7X92I1xpeDFskLlMq?usp=drive_link)
-- [IOT Based Inventory Monitoring](https://drive.google.com/drive/folders/1xpeffEbCJIBG0iXkJwZVaLofZf8MKFtd?usp=drive_link)
+- [IOT Based Inventory Monitoring](https://github.com/VINAYAK-JAINAPUR/Inventory-Monitorinng-System)
 
-👨‍💻 All of my projects are available at [Google Drive](https://drive.google.com/drive/folders/1-HP5CasaEiLcmm3-EBHqDcK4OQDRLeC_?usp=sharing)
+👨‍💻 All of my projects are available at [Git Hub Repository](https://github.com/VINAYAK-JAINAPUR?tab=repositories)
 
 - 💬 Ask me about **Networking, UI Design, and Programming**
 
