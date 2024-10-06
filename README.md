@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Networking, UI Design, and Programming**
 
-- 📫 How to reach me - **vinay.j777@icloud.com**
+- 📫 How to reach me - **vinayakjainapur17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
